@@ -1,4 +1,4 @@
-# MoodyTrace
+# Moody Trace
 Minecraft Entity Data Recorder  
 エンティティ録画データパック
 
@@ -29,6 +29,10 @@ x0
 x1/20,1/10,1/5,1/4,1/3,1/2  
 x1,2,3,4,5,10,20,100,200,600,1200
 ```
+
+# 一緒に入れてね / Dependencies
+
+Oh! My Dat!(https://github.com/Ai-Akaishi/OhMyDat)
 
 # 連絡はこちら/Contact
 
