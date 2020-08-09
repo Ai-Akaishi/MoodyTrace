@@ -27,7 +27,14 @@ x-1,-2,-3,-4,-5,-10,-20,-100,-200,-600,-1200
 x-1/20,-1/10,-1/5,-1/4,-1/3,-1/2  
 x0  
 x1/20,1/10,1/5,1/4,1/3,1/2  
-x1,2,3,4,5,10,20,100,200,600,1200
+x1,2,3,4,5,10,20,100,200,600,1200  
+  
+再生(巻き戻し)停止 / Stop Playing Back (Rewinding)  
+function moody_trace:stop  
+  
+メモリをめちゃくちゃ使うので、こまめに削除してね / Delete records frequently to save memory.  
+記録削除 / Delete Record  
+function moody_trace:delete
 ```
 
 # 一緒に入れてね / Dependencies
