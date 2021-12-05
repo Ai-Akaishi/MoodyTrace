@@ -4,14 +4,18 @@ Minecraft Entity Data Recorder
 
 # 動作確認済みバージョン / Verified minecraft versions
 
-- 1.17
+- 1.18
 
 以下のバージョンは右のReleasesからどうぞ。  
 For the following versions, please check Releases on the right.
 
 - 1.16.x
+- 1.17
 
 # 使い方/How To Use
+
+録画終了したばかりの時は最後の状態になっているので、巻き戻してね。
+When you've just finished recording entities, they're in their last states, so rewind them first.
 
 ```
 対象のエンティティで実行するだけ！ / Run the command as the target entity.  
